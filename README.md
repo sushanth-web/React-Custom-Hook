@@ -4,9 +4,11 @@ A modern React application demonstrating how to fetch data using a custom React 
 
 🚀 Live Demo
 
-Check out the live demo of this project here:
+Check out the live demo of this project here:https://assignment5tutedude.netlify.app/
 
 Live Demo
+
+
 <img width="1366" height="768" alt="Screenshot 2025-08-30 112349" src="https://github.com/user-attachments/assets/ca6c9eea-45ef-4522-8267-91541e5d1017" />
 
 
